@@ -1,0 +1,2 @@
+# electronic-non-volatile-outdoor-weather-station-with-data-processing-and-transmission-function
+An electronic non-volatile outdoor weather station consists of two parts.  The outdoor part takes readings of air temperature, pressure, humidity, precipitation, wind speed and direction.  All sensor readings are transmitted to the central part via a radio channel. The weather station is based on the Arduino family.
